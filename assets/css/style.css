@@ -9,14 +9,12 @@ a {
     text-decoration: none;
 }
 
+/* setting background color */
 body {
     background-color: #d9dcd6;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* applying styles to the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,6 +31,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* applying style to navigation list */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,6 +47,11 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+/* applying styles to paragraphs */
+p {
+    font-size: 16px;
 }
 
 .hero {
@@ -69,7 +73,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-.content {
+.goals {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
