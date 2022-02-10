@@ -7,6 +7,9 @@ A website that offers companies the opportunity to enhance their search engine o
 * HTML
 * CSS
 
+## Screenshot
+![screenshot of Horiseon Website](./assets/images/Horiseon-Search-Engine-Optimization.png)
+
 ## Website
 https://mmeyer715.github.io/seo-website/
 
