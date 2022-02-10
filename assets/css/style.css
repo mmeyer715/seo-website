@@ -63,12 +63,12 @@ p {
     background-position: center;
 }
 
-.float-left {
+.float-left img{
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right img{
     float: right;
     margin-left: 25px;
 }
@@ -147,7 +147,7 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+.goals {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -156,7 +156,7 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing {
+.goals {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
