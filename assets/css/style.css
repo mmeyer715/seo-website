@@ -4,35 +4,27 @@
     margin: 0;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* setting background color */
 body {
     background-color: #d9dcd6;
 }
 
-/* applying styles to the header */
-header {
+.header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-header h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
-/* applying style to navigation list */
-header nav {
+.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -40,16 +32,20 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+.header div ul {
     list-style-type: none;
 }
 
-header nav ul li {
+.header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* applying styles to paragraphs */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 p {
     font-size: 16px;
 }
@@ -138,7 +134,7 @@ p {
     max-width: 150px;
 }
 
-.goals {
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -147,7 +143,7 @@ p {
     color: #ffffff;
 }
 
-.goals {
+.online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -156,7 +152,7 @@ p {
     color: #ffffff;
 }
 
-.goals {
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
