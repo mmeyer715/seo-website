@@ -63,17 +63,17 @@ p {
     background-position: center;
 }
 
-.float-left img {
+.float-left {
     float: left;
     margin-right: 25px;
 }
 
-.float-right img {
+.float-right {
     float: right;
     margin-left: 25px;
 }
 
-.goals p{
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -138,7 +138,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.goals {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
