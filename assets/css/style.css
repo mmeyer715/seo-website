@@ -63,17 +63,17 @@ p {
     background-position: center;
 }
 
-.float-left {
+.float-left img {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right img {
     float: right;
     margin-left: 25px;
 }
 
-.goals {
+.goals p{
     width: 75%;
     display: inline-block;
     margin-left: 20px;
